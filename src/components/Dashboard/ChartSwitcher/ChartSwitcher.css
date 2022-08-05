@@ -1,0 +1,9 @@
+.boton_p{
+   
+}
+
+@media(max-width: 305px){
+    .boton_p{
+        font-size: 10px;
+    }
+}

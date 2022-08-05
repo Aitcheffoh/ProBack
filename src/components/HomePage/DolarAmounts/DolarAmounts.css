@@ -1,0 +1,11 @@
+.DolarAmounts .Body {
+    padding: 0 30px;
+}
+.table_Dolar {
+}
+
+@media(max-width: 310px) {
+    .table_Dolar {
+        font-size: 11px;
+    }
+}

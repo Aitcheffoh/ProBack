@@ -1,0 +1,49 @@
+.centrado{
+	text-align: center !important;
+}
+
+.izquierda{
+	text-align: left !important;
+}
+
+.derecha{
+	text-align: right !important;
+}
+
+.fecha{
+	font-size: 14px;
+}
+
+.referencia{
+	font-size: 16px;
+}
+
+.tamCard{
+	max-width: 540px;
+}
+
+.noBorder{
+	border: 0px !important;
+}
+
+.imgCredit{
+	width: 100% !important;
+}
+
+.boton{
+	margin-top: 1%;
+}
+.titulo{
+	color: red;
+	margin-bottom: 3%;
+}
+
+.texto{
+	font-size: 20px;
+}
+
+.boton{
+	margin-top: 3%;
+	display: flex;
+  	justify-content: center;
+}

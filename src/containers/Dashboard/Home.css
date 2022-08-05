@@ -1,0 +1,39 @@
+.FirstRow{
+    margin-top: 6%;
+}
+@media(max-width: 1105px){
+    .FirstRow{
+        margin-top: 10%;
+    }
+}
+@media(max-width: 670px){
+    .FirstRow{
+        margin-top: 18%;
+    }
+}
+@media(max-width: 390px){
+    .FirstRow{
+        margin-top: 25%;
+    }
+}
+@media(max-width: 292px){
+    .FirstRow{
+        margin-top: 32%;
+    }
+}
+
+.Label{
+    font-size: 15px;
+}
+.texto_info_real_grande{
+    font-size: 1.4em !important;
+     position: absolute !important; 
+     top: 25%!important;
+}
+@media(max-width: 475px){
+    .texto_info_real_grande{
+        font-size: 1.0em !important;
+        top: 25%!important;
+    }
+}
+

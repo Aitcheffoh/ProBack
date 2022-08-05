@@ -1,0 +1,50 @@
+.StockIndexPanel{
+
+}
+
+.BVCLogo{
+    width: 50px;
+    display: inline-block;
+    margin-top: 3px;
+    margin-right: 5px;
+}
+
+.Inline{
+    display: inline-block
+}
+
+.StockTable tbody tr td:not(:first-child){
+    text-align: right;
+}
+
+.StockTable tbody tr td:first-child{
+    font-weight: bolder;
+}
+
+.StockTable thead tr th{
+    text-align: right;
+}
+
+.StockChart{
+    width: 100% !important;
+    height: 25vh !important;
+    margin: auto;
+}
+
+.StockPanelBody{
+    height: 427px !important;
+    min-height: 427px !important;
+}
+.tabla_indice{
+
+}
+@media(max-width: 355px){
+    .tabla_indice{
+        font-size: 10px;
+    }
+}
+@media(max-width: 297px){
+    .tabla_indice{
+        font-size: 8px;
+    }
+}
